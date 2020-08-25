@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAD_final_2019</string>
+
+    <string name="username">UserName</string>
+
+    <string name ="password">Password</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
